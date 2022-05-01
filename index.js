@@ -38,6 +38,6 @@
 
 main.remove();
 
-const newHeader = document.getElementById('victory');
+const newHeader =  document.getElementById('victory');
 newHeader.textContent = "mayce is the champion"
 console.log(newHeader)
